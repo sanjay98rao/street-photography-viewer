@@ -1,0 +1,15 @@
+{
+  "PhotoViewer": {
+    "title": "Photographie de rue",
+    "description": "La photographie de rue capte les moments réels et les interactions humaines dans les lieux publics. C'est une façon de raconter des histoires visuelles et de geler des moments éphémères du temps, en transformant l'ordinaire en extraordinaire.",
+    "orderBy": "{value, select, popular {Populaire} latest {Dernier} other {Inconnu}}"
+  },
+  "Pagination": {
+    "prev": "Retour",
+    "next": "Suivant",
+    "info": "Page {page, number} de {totalPages, number} ({totalElements, plural, one {}=1 {un résultat} other {# résultats}} au total)"
+  },
+  "Footer": {
+    "credits": "Les photos sont fournies par <unsplash>Unsplash</unsplash>"
+  }
+}
